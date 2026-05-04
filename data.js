@@ -1,5 +1,5 @@
 const personajes = [
-  { nombre: "Luna", vida: 100, tipo: "maga", nivel: 3 },
-  { nombre: "Kai", vida: 120, tipo: "guerrero", nivel: 4 },
-  { nombre: "Nina", vida: 90, tipo: "arquera", nivel: 2 }
+  { nombre: "Fran", vida: 100, tipo: "Herrero", nivel: 3 },
+  { nombre: "Thiago", vida: 120, tipo: "Mago", nivel: 4 },
+  { nombre: "Joa", vida: 90, tipo: "Arquera", nivel: 2 }
 ];
